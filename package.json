@@ -1,0 +1,16 @@
+{
+  "name": "reviewtruonghoc",
+  "version": "1.0.0",
+  "description": "basically a school review terrorist",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "express-rate-limit": "^6.6.0",
+    "fastify-rate-limit-custom": "^2.1.3"
+  }
+}
